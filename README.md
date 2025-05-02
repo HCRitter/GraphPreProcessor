@@ -63,4 +63,5 @@ Invoke-GraphScript -Path C:\Temp\MyGraphScript.ps1
 ```
 
 Result:
-![ExecutionTime](GraphPreProcessor.JPG)
+
+![alt text](GraphPreProcessor.jpg)
